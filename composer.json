@@ -12,10 +12,6 @@
             "email": "michael@kreativsoehne.de"
         }
     ],
-    "require": {
-        "magento/framework": "^101.0|^102.0",
-        "php": ">=7.0.0"
-    },
     "require-dev":{
         "phpunit/phpunit":"*",
         "composer/composer":"*@dev"
